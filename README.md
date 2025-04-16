@@ -4,8 +4,8 @@ Seja bem-vindo ao meu perfil!
 
 Sou estudante de programação prestes a entrar na falculdade de Desenvolvimento de Software. Estou Aprendendo cada vez mais sobre front e back-end, e alguns frameworks, além de banco de dados relacionais e não relacionais. Resumindo atualmente estou:
 
-- 🔭 Hoje aprendo sobre programação, com foco em back-end
 - 🌱 Estudando C & Java
+- 🔭 Hoje aprendo sobre programação, com foco em back-end
 - ✨ Em busca de entrar na área de TI
 
 <div style="display: inline_block"><br>
