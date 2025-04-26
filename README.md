@@ -5,22 +5,14 @@ Seja bem-vindo ao meu perfil!
 Sou estudante de programação prestes a entrar na falculdade de Desenvolvimento de Software. Estou Aprendendo cada vez mais sobre front e back-end, e alguns frameworks, além de banco de dados relacionais e não relacionais. Resumindo atualmente estou:
 
 - 🌱 Estudando C & Java
-- 🔭 Hoje aprendo sobre programação, full stack, mas com foco em back-end e banco de dados
+- 🔭 Hoje aprendo sobre programação full stack, mas com foco em back-end e banco de dados
 - ✨ Estou em busca de entrar na área de TI
 
 ##
 
 Algumas das tecnologias que uso.
 
-Linguagens de marcação:
-<div style="display: inline_block"><br>
-  
-<img align="center" alt="Martins-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Martins-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
-
-##
-
-Linguagens de Programação:
+Linguagens de Programação e Ferramentas:
 <div style="display: inline_block"><br>
   <img align="center" alt="Martins-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Martins-TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
@@ -29,6 +21,8 @@ Linguagens de Programação:
   <img align="center" alt="Martins-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Martins-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Martins-Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="Martins-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Martins-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
 </div>
 
 ##
@@ -51,12 +45,8 @@ Banco de Dados:
 
 ##
 
-##
-
-Meus contatos:
+Meus contatos e organizações:
 <div>
   <a href="https://www.github.com/NEW-FINCASH" target="_blank"><img src="https://img.shields.io/badge/Fincash-000000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-  <a href="mailto:heniquemartins7t@gmail.com">
-  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail"></a>
   <a href="https://www.linkedin.com/in/henriquemoreiramartins" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
