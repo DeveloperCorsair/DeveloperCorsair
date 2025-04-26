@@ -51,9 +51,17 @@ Banco de Dados:
 
 ##
 
+##
+
 Meus contatos:
 <div>
-  <a href="https://www.github.com/NEW-FINCASH" target="_blank"><img src="https://img.shields.io/badge/Fincash-000000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-  <a href="mailto:heniquemartins7t@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail"></a>
-  <a href="https://www.linkedin.com/in/henriquemoreiramartins" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.github.com/NEW-FINCASH" target="_blank">
+    <img src="https://img.shields.io/badge/Fincash-000000?style=for-the-badge&logo=github&logoColor=white" alt="Github">
+  </a>
+  <a href="mailto:heniquemartins7t@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/henriquemoreiramartins" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 </div>
