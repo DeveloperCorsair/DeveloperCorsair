@@ -10,9 +10,7 @@ Sou estudante de programação prestes a entrar na falculdade de Desenvolvimento
 
 ##
 
-Algumas das tecnologias que uso.
-
-Linguagens:
+Algumas das tecnologias que uso:
 <div style="display: inline_block"><br>
   <img align="center" alt="Martins-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Martins-TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
@@ -29,20 +27,6 @@ Linguagens:
   <img align="center" alt="Martins-Vite" height="30" width="40" src="https://github.com/vitejs/vite/blob/main/docs/public/logo.svg">  
   <img align="center" alt="Martins-Mongo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="Martins-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">  
-
-</div>
-
-##
-
-Frameworks e blibiotecas:
-<div style="display: inline_block"><br>
-</div>
-
-##
-
-Banco de Dados:
-<div style="display: inline_block"><br>
-  
 </div>
 
 ##
