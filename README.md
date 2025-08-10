@@ -1,8 +1,6 @@
 # Prazer, Henrique! 👋
 **``Desenvolvedor FullStack``**
 
-Seja bem-vindo ao meu perfil!
-
 Sou estudante de programação, cursando Desenvolvimento de Software Multiplataforma na Fatec. Estou Aprendendo cada vez mais sobre front-end e back-end, além de frameworks, banco de dados relacionais e não relacionais. Resumindo, atualmente estou:
 
 - 🌱 Estudando C & Java.
