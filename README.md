@@ -11,8 +11,11 @@ Sou estudante de programação prestes a entrar na falculdade de Desenvolvimento
 
 ##
 
+  [![My Skills](https://skillicons.dev/icons?i=js,ts,py,html,css,react,mongodb,mysql&perline=3)](https://skillicons.dev)
+
+
 Algumas das tecnologias que uso:
-<div style="display: inline_block"><br>
+<div style="display: inline_block"><br>  
   <img align="center" alt="Martins-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Martins-TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="Martins-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
