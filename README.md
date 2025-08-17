@@ -3,12 +3,12 @@
 
 Sou estudante de programação, cursando Desenvolvimento de Software Multiplataforma na Fatec. Estou Aprendendo cada vez mais sobre front-end e back-end, além de frameworks, banco de dados relacionais e não relacionais. Resumindo, atualmente estou:
 
-- 🌱 Estudando C & Java.
+- 🌱 Estudando C & Python.
 - 🎉 Sou estudande de Desenvolvimento de Software na Fatec.
 - 🔭 Hoje aprendo sobre programação full stack, mas com foco em back-end e banco de dados.
 
 ## 💻 Tecnologias
-  ![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,py,c,java,mongodb,mysql,nodejs,npm,vite,git,tailwind,figma&perline=8)
+  ![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,py,c,mongodb,mysql,nodejs,npm,vite,git,tailwind,bootstrap,figma&perline=8)
 
 ## 👾 Meus contatos e organizações
 <div>
