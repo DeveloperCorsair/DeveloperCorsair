@@ -8,7 +8,7 @@ Sou estudante de programação, cursando Desenvolvimento de Software Multiplataf
 - 🔭 Hoje aprendo sobre programação full stack, mas com foco em back-end e banco de dados.
 
 ## 💻 Tecnologias
-  ![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,py,c,mongodb,mysql,nodejs,aws,docker,vite,git,tailwind,flask,bootstrap,figma&perline=9)
+  ![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,figma,vite,react,js,ts,c,py,flask,mongodb,mysql,nodejs,aws,docker,git&perline=9)
 
 ## 👾 Meus contatos e organizações
 <div>
